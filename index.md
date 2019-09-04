@@ -12,7 +12,7 @@ Adjunct Faculty at Northwest Vista College
 * MS - Information Systems
 
 # Courses
-* [GAME 2332](GAME_2332/index.md)
+* TBD
 
 # Portfolio
 Check out my various [projects](portfolio.md).
