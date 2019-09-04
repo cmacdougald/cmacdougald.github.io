@@ -1,7 +1,6 @@
 # Portfolio
-* [GAME 2332](GAME_2332/index.md)
-  * [Semester Project](https://github.com/cmacdougald/2017FALL_ITSE1302_Golf)
-* [ITSE 1302](https://github.com/cmacdougald/2017SPRING_ITSE1302_BlackJack)
+* [GAME 2332](https://github.com/cmacdougald/cmacdougald.github.io/tree/master/GAME_2332)
+* ITSE 1302
   * [Semester Project](https://github.com/cmacdougald/2017SPRING_ITSE1302_BlackJack)
 * [ITSE 1307](ITSE_1307/index.md)
 
