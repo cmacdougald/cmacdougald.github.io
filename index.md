@@ -4,7 +4,8 @@ This is a simple site allowing my students to see an example site and portfolio 
 
 # About Me
 
-Adjunct Faculty at Northwest Vista College
+Chris MacDougald
+Adjunct Faculty at Northwest Vista College (2004 - )
 
 # Education
 
@@ -12,7 +13,11 @@ Adjunct Faculty at Northwest Vista College
 * MS - Information Systems
 
 # Courses
-* TBD
+* C/C++ Programming
+* Data Structures
+* Game Testing
+* Game Project Development
+* Java Programming
 
 # Portfolio
 * [https://github.com/cmacdougald/](https://github.com/cmacdougald/)
