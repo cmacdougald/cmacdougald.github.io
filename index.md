@@ -15,4 +15,4 @@ Adjunct Faculty at Northwest Vista College
 * TBD
 
 # Portfolio
-* https://github.com/cmacdougald/
+* [https://github.com/cmacdougald/](https://github.com/cmacdougald/)
