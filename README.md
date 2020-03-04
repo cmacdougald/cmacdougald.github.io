@@ -1,5 +1,11 @@
-## Read Me 
+# README
 
-Welcome to the course resources repository.
+## Site
 
-* [Start Here](index.md)
+https://cmacdougald.github.io/
+
+## Common Teaching Resources
+
+* [Test Review Slides](./test_review.html)
+
+
