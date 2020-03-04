@@ -6,6 +6,6 @@ https://cmacdougald.github.io/
 
 ## Common Teaching Resources
 
-* [Test Review Slides](test_review.html)
+* [Test Review Slides](https://cmacdougald.github.io/test_review.html)
 
 
