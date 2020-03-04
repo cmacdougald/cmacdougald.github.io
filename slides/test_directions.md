@@ -5,8 +5,6 @@ layout: slides
 
 # Test Directions
 
----
-
 ## Test
 
 * Log into Canvas
@@ -14,8 +12,6 @@ layout: slides
 * Have only Canvas open during the test
 
 * Questions raise your hand and get my attention
-
----
 
 ## Coding Test 
 
@@ -36,6 +32,3 @@ layout: slides
 * Everything is curved so RELAX it’s normal for this first test to be harder than expected.
 * I will have them all graded by next class period. If you really need it graded sooner for whatever reason let me know.
 * We will review over the test next class and continue the lessons as planned.
-
-
-
