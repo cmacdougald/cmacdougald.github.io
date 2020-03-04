@@ -5,6 +5,7 @@ This is a simple site allowing my students to see an example site and portfolio 
 # About Me
 
 Chris MacDougald
+
 Adjunct Faculty at Northwest Vista College (2004 - )
 
 # Education
