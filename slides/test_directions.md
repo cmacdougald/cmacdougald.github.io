@@ -1,9 +1,11 @@
 ---
-title: Test Directions
 layout: slides
+title: Test Directions
 ---
 
 # Test Directions
+
+---
 
 ## Test
 
@@ -12,6 +14,8 @@ layout: slides
 * Have only Canvas open during the test
 
 * Questions raise your hand and get my attention
+
+---
 
 ## Coding Test 
 
