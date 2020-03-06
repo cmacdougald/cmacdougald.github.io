@@ -19,7 +19,7 @@ Adjunct Faculty at Northwest Vista College (2004 - )
 * Java Programming
 
 # Additional Information
-* [Grading Rubric](/handouts/grading_rubric.html)
+* [Grading Rubric](handouts/grading_rubric.md)
 
 # Portfolio
 * [https://github.com/cmacdougald/](https://github.com/cmacdougald/)
