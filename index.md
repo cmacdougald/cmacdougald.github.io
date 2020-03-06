@@ -18,5 +18,8 @@ Adjunct Faculty at Northwest Vista College (2004 - )
 * Game Project Development
 * Java Programming
 
+# Additional Information
+* [Grading Rubric](/handouts/grading_rubric.html)
+
 # Portfolio
 * [https://github.com/cmacdougald/](https://github.com/cmacdougald/)
