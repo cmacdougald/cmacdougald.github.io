@@ -1,6 +1,6 @@
 # Grading Rubric
 
-## Reviews
+## Writing
 
 The following scale is used for grading purposes the reviews, each section
 encompasses 10 points each.
@@ -29,7 +29,7 @@ encompasses 10 points each.
 
 > Derived from: <https://www.cmu.edu/teaching/designteach/teach/rubrics.html>
 
-### Coding
+## Coding
 
 The following scale is used for grading purposes the reviews, each section
 encompasses 10 points each.
