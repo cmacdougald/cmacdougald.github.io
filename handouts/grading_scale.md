@@ -14,4 +14,4 @@ The following scale is used for the overall scoring for the course.
 * Test 3
   * 15%
 * Final
- * 15%
+  * 15%
