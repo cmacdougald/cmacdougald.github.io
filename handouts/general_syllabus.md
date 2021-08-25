@@ -12,7 +12,7 @@ Best to call, then text, finally email. Alamo email usually checked before or af
 * Access to a computer
 * Textbook / Course Materials - See Course github repo and canvas Modules
 * github.com
-* USB Flash Drive
+* USB Drive
   * For course work. Recommend you take or have backups of all course materials.
 
 ## Grading Details
