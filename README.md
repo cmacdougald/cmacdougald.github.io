@@ -8,6 +8,7 @@ https://cmacdougald.github.io/
 
 ### Handouts
 
+* [General Syllabus](https://cmacdougald.github.io/handouts/general_syllabus.html)
 * [Grading Rubric](https://cmacdougald.github.io/handouts/grading_rubric.html)
 * [Grading Scale](https://cmacdougald.github.io/handouts/grading_scale.html)
 
