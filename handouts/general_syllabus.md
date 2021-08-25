@@ -1,5 +1,13 @@
 # General Syllabus
 
+## Contacting
+
+__There is no reason why you should not call if you need help.__
+
+Best to call, then text, finally email. Alamo email usually checked before or after class on T/Th.
+
+* _Email you must use subject line: ITSE#### or GAME#### where #### is your course number._
+
 ## Instructional Material
 * Access to a computer
 * Textbook / Course Materials - See Course github repo and canvas Modules
